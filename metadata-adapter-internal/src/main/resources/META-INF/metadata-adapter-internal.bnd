@@ -1,0 +1,2 @@
+Export-Package com.peergreen.metadata.adapter
+Private-Package com.peergreen.metadata.adapter.internal.*
