@@ -20,7 +20,7 @@
 
   <groupId>com.peergreen.metadata.adapter</groupId>
   <artifactId>metadata-adapter</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>Peergreen Metadata Adapter</name>
@@ -29,7 +29,7 @@
     <connection>scm:git:https://forge.peergreen.com/git/git/platform/metadata-adapter.git</connection>
     <developerConnection>scm:git:https://forge.peergreen.com/git/git/platform/metadata-adapter.git</developerConnection>
     <url>https://forge.peergreen.com/git/summary/?r=platform/metadata-adapter.git</url>
-    <tag>METADATA_ADAPTER_1_0_0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <modules>
